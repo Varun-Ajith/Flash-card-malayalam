@@ -26,13 +26,9 @@ Flashy helps users learn new words by displaying a Malayalam word and prompting 
 4. Run the Python script: pyhton `main.py`
 
 
-## Images
-
-![Flashy Screenshot](flashy_screenshot.png)
-
 ## Credits
 
-- Images used in the application: [PNGWing](https://www.pngwing.com/)
+All Credits to Varun Ajith
 
 ## License
 
